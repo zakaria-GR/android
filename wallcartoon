@@ -27,305 +27,475 @@
    
     }
   ],
-   "More":
-  [
+   "More":[
     {
-      "id":1,
-      "title":"Sample More App 1",
-      "image":"file:///android_asset/more/more1.jpg",
-      "link":"https://aliendro.id/"
+      "id": 1,
+      "title": "Sample More App 1",
+      "image": "file:///android_asset/more/more1.jpg",
+      "link": "https://aliendro.id/"
     },
     {
-      "id":2,
-      "title":"Sample More App 2",
-      "image":"file:///android_asset/more/more2.jpg",
-      "link":"https://aliendro.id/"
+      "id": 2,
+      "title": "Sample More App 2",
+      "image": "file:///android_asset/more/more2.jpg",
+      "link": "https://aliendro.id/"
     },
     {
-      "id":3,
-      "title":"Sample More App 3",
-      "image":"file:///android_asset/more/more3.jpg",
-      "link":"https://aliendro.id/"
+      "id": 3,
+      "title": "Sample More App 3",
+      "image": "file:///android_asset/more/more3.jpg",
+      "link": "https://aliendro.id/"
     },
     {
-      "id":4,
-      "title":"Sample More App 4",
-      "image":"file:///android_asset/more/more4.jpg",
-      "link":"https://aliendro.id/"
+      "id": 4,
+      "title": "Sample More App 4",
+      "image": "file:///android_asset/more/more4.jpg",
+      "link": "https://aliendro.id/"
     },
     {
-      "id":5,
-      "title":"Sample More App 5",
-      "image":"file:///android_asset/more/more5.jpg",
-      "link":"https://aliendro.id/"
+      "id": 5,
+      "title": "Sample More App 5",
+      "image": "file:///android_asset/more/more5.jpg",
+      "link": "https://aliendro.id/"
     },
     {
-      "id":6,
-      "title":"Sample More App 6",
-      "image":"file:///android_asset/more/more6.webp",
-      "link":"https://aliendro.id/"
+      "id": 6,
+      "title": "Sample More App 6",
+      "image": "file:///android_asset/more/more6.webp",
+      "link": "https://aliendro.id/"
     },
     {
-      "id":7,
-      "title":"Sample More App 7",
-      "image":"file:///android_asset/more/more7.jpg",
-      "link":"https://aliendro.id/"
+      "id": 7,
+      "title": "Sample More App 7",
+      "image": "file:///android_asset/more/more7.jpg",
+      "link": "https://aliendro.id/"
     },
     {
-      "id":8,
-      "title":"Sample More App 8",
-      "image":"file:///android_asset/more/more8.jpg",
-      "link":"https://aliendro.id/"
+      "id": 8,
+      "title": "Sample More App 8",
+      "image": "file:///android_asset/more/more8.jpg",
+      "link": "https://aliendro.id/"
     },
     {
-      "id":9,
-      "title":"Sample More App 9",
-      "image":"file:///android_asset/more/more9.jpg",
-      "link":"https://aliendro.id/"
+      "id": 9,
+      "title": "Sample More App 9",
+      "image": "file:///android_asset/more/more9.jpg",
+      "link": "https://aliendro.id/"
     }
-
   ],
 
   "Categories": [
     {
       "id": 1,
-      "name_category": "Sport Car",
-      "image": "https://aliendro.id/demo/walljson/car6.jpg"
-
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/736x/d9/a0/0c/d9a00c2ef46c6e1ae9246d8cc733742b.jpg"
     },
     {
       "id": 2,
-      "name_category": "Wild Animals",
-      "image": "file:///android_asset/image/animal1.jpg"
+      "name_category": "Urban",
+      "image": "https://i.pinimg.com/1200x/a2/81/18/a2811892e94cf2ede0ed45d85e163062.jpg"
     },
     {
       "id": 3,
-      "name_category": "Space",
-      "image": "file:///android_asset/image/space1.jpg"
+      "name_category": "Aesthetic",
+      "image": "https://i.pinimg.com/1200x/31/b6/fa/31b6faef1c5c7a7cfb29ff11e3c95274.jpg"
     },
     {
       "id": 4,
-      "name_category": "Astronout",
-      "image": "file:///android_asset/image/astro1.jpg"
+      "name_category": "AI",
+      "image": "https://i.pinimg.com/736x/53/38/a4/5338a465679ba82a49a9cd896ca162bd.jpg"
     },
     {
       "id": 5,
-      "name_category": "Media Art",
-      "image": "file:///android_asset/image/art1.jpg"
+      "name_category": "Cinematic",
+      "image": "https://i.pinimg.com/1200x/d9/f5/8d/d9f58d16c8c1d5b76ca7d3ab66b6578d.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Artistic",
+      "image": "https://i.pinimg.com/736x/da/01/75/da0175518becf8e7fd49a9347e36385c.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Space",
+      "image": "https://i.pinimg.com/736x/38/f9/7e/38f97e3295ac7e339ce4186cfb2fa052.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Murim",
+      "image": "https://i.pinimg.com/736x/09/54/5e/09545ee0dce60ca29d472f55e4826302.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "Animals",
+      "image": "https://i.pinimg.com/736x/c9/f8/74/c9f8748efd9b723172104293a835431b.jpg"
     }
   ],
 
-  "Data":
-  [
+  "Data": [
     {
-      "id":1,
-      "name_category": "Sport Car",
-      "title":"Super Car 01",
-      "image":"https://aliendro.id/demo/walljson/car1.jpg",
-      "lock":false
+      "id": 1,
+      "name_category": "Nature",
+      "title": "Forest Landscape",
+      "image": "https://i.pinimg.com/736x/d9/a0/0c/d9a00c2ef46c6e1ae9246d8cc733742b.jpg",
+      "lock": false
     },
     {
-      "id":2,
-      "name_category": "Sport Car",
-      "title":"Super Car 02",
-      "image":"https://aliendro.id/demo/walljson/car2.jpg",
-      "lock":false
+      "id": 2,
+      "name_category": "Nature",
+      "title": "Mountain Vista",
+      "image": "https://i.pinimg.com/736x/e7/96/dd/e796ddd52fcafaacef1d2e959ec2977c.jpg",
+      "lock": false
     },
     {
-      "id":3,
-      "name_category": "Sport Car",
-      "title":"Super Car 03",
-      "image":"https://aliendro.id/demo/walljson/car3.jpg",
-      "lock":false
+      "id": 3,
+      "name_category": "Nature",
+      "title": "Ocean Waves",
+      "image": "https://i.pinimg.com/1200x/2d/33/24/2d332406197d20278a6add33a10c7507.jpg",
+      "lock": false
     },
     {
-      "id":4,
-      "name_category": "Sport Car",
-      "title":"Super Car 04",
-      "image":"https://aliendro.id/demo/walljson/car4.jpg",
-      "lock":false
+      "id": 4,
+      "name_category": "Nature",
+      "title": "Desert Dunes",
+      "image": "https://i.pinimg.com/736x/f4/32/1b/f4321bfd259afa498b8f964112a3219e.jpg",
+      "lock": false
     },
     {
-      "id":5,
-      "name_category": "Sport Car",
-      "title":"Super Car 05",
-      "image":"file:///android_asset/image/car5.jpg",
-      "lock":true
+      "id": 5,
+      "name_category": "Nature",
+      "title": "Tropical Paradise",
+      "image": "https://i.pinimg.com/736x/05/da/85/05da85aa3c50ed6ce4c8967753c25d0f.jpg",
+      "lock": true
     },
     {
-      "id":6,
-      "name_category": "Sport Car",
-      "title":"Super Car 06",
-      "image":"https://aliendro.id/demo/walljson/car6.jpg",
-      "lock":false
+      "id": 6,
+      "name_category": "Nature",
+      "title": "Aurora Night",
+      "image": "https://i.pinimg.com/736x/12/9b/67/129b67b6ea4a92906a191477f94922eb.jpg",
+      "lock": false
     },
     {
-      "id":7,
-      "name_category": "Wild Animals",
-      "title":"Cute Animal 1",
-      "image":"file:///android_asset/image/animal1.jpg",
-      "lock":false
+      "id": 7,
+      "name_category": "Nature",
+      "title": "Waterfall Cascade",
+      "image": "https://i.pinimg.com/736x/c5/36/04/c53604cdbaa56fc557e85b4a8a077a41.jpg",
+      "lock": false
     },
     {
-      "id":8,
-      "name_category": "Wild Animals",
-      "title":"Cute Animal 2",
-      "image":"file:///android_asset/image/animal2.jpg",
-      "lock":false
+      "id": 8,
+      "name_category": "Nature",
+      "title": "Sunset Reflection",
+      "image": "https://i.pinimg.com/736x/9a/81/47/9a8147e8cfe62ef4784107eb78d52c00.jpg",
+      "lock": true
     },
     {
-      "id":9,
-      "name_category": "Wild Animals",
-      "title":"Cute Animal 3",
-      "image":"file:///android_asset/image/animal3.jpg",
-      "lock":false
+      "id": 9,
+      "name_category": "Urban",
+      "title": "City Skyline",
+      "image": "https://i.pinimg.com/1200x/a2/81/18/a2811892e94cf2ede0ed45d85e163062.jpg",
+      "lock": false
     },
     {
-      "id":10,
-      "name_category": "Wild Animals",
-      "title":"Cute Animal 4",
-      "image":"file:///android_asset/image/animal4.jpg",
-      "lock":true
+      "id": 10,
+      "name_category": "Urban",
+      "title": "Neon Streets",
+      "image": "https://i.pinimg.com/736x/70/c3/a4/70c3a4af73eb9df94fa40d30ae92bfb1.jpg",
+      "lock": false
     },
     {
-      "id":11,
-      "name_category": "Wild Animals",
-      "title":"Cute Animal 5",
-      "image":"file:///android_asset/image/animal5.jpg",
-      "lock":true
+      "id": 11,
+      "name_category": "Urban",
+      "title": "Metropolitan View",
+      "image": "https://i.pinimg.com/1200x/d3/50/48/d3504800da3f57fdd3862d115dcd07e1.jpg",
+      "lock": true
     },
     {
-      "id":12,
-      "name_category": "Wild Animals",
-      "title":"Cute Animal 1",
-      "image":"file:///android_asset/image/animal6.jpg",
-      "lock":false
+      "id": 12,
+      "name_category": "Urban",
+      "title": "Bridge Architecture",
+      "image": "https://i.pinimg.com/1200x/0e/5e/26/0e5e26125afd1cb4c46c7fa2c4597da6.jpg",
+      "lock": false
     },
     {
-      "id":13,
+      "id": 13,
+      "name_category": "Urban",
+      "title": "Urban Reflection",
+      "image": "https://i.pinimg.com/736x/86/7d/1a/867d1add4647e3a8d2dd7b561da58dbb.jpg",
+      "lock": false
+    },
+    {
+      "id": 14,
+      "name_category": "Urban",
+      "title": "Street Art",
+      "image": "https://i.pinimg.com/736x/f3/c5/bf/f3c5bffc3eace4967ec346c59482659e.jpg",
+      "lock": true
+    },
+    {
+      "id": 15,
+      "name_category": "Aesthetic",
+      "title": "Pastel Dreams",
+      "image": "https://i.pinimg.com/1200x/31/b6/fa/31b6faef1c5c7a7cfb29ff11e3c95274.jpg",
+      "lock": false
+    },
+    {
+      "id": 16,
+      "name_category": "Aesthetic",
+      "title": "Minimalist Art",
+      "image": "https://i.pinimg.com/1200x/70/31/37/7031379dd660b0dafa63d691770eab35.jpg",
+      "lock": false
+    },
+    {
+      "id": 17,
+      "name_category": "Aesthetic",
+      "title": "Vaporwave Vibes",
+      "image": "https://i.pinimg.com/736x/98/fb/cd/98fbcd3355fc986bcfa7e1d90ae471c7.jpg",
+      "lock": true
+    },
+    {
+      "id": 18,
+      "name_category": "Aesthetic",
+      "title": "Gradient Flow",
+      "image": "https://i.pinimg.com/736x/fa/7f/d1/fa7fd10bd34882d3f0e996f6814b6fe0.jpg",
+      "lock": false
+    },
+    {
+      "id": 19,
+      "name_category": "Aesthetic",
+      "title": "Retro Sunset",
+      "image": "https://i.pinimg.com/1200x/d8/05/c0/d805c0aacad37aa78a998ff44c1af1cd.jpg",
+      "lock": false
+    },
+    {
+      "id": 20,
+      "name_category": "Aesthetic",
+      "title": "Neon Glow",
+      "image": "https://i.pinimg.com/1200x/fb/16/d4/fb16d4331b8030a2fbbc3fb01a234d6b.jpg",
+      "lock": true
+    },
+    {
+      "id": 21,
+      "name_category": "AI",
+      "title": "Neural Network",
+      "image": "https://i.pinimg.com/736x/53/38/a4/5338a465679ba82a49a9cd896ca162bd.jpg",
+      "lock": false
+    },
+    {
+      "id": 22,
+      "name_category": "AI",
+      "title": "Digital Mind",
+      "image": "https://i.pinimg.com/1200x/d9/f5/8d/d9f58d16c8c1d5b76ca7d3ab66b6578d.jpg",
+      "lock": false
+    },
+    {
+      "id": 23,
+      "name_category": "AI",
+      "title": "Robot Portrait",
+      "image": "https://i.pinimg.com/1200x/88/76/75/88767515ba081e2ba3186ffa0d5340c0.jpg",
+      "lock": true
+    },
+    {
+      "id": 24,
+      "name_category": "AI",
+      "title": "Cyber Face",
+      "image": "https://i.pinimg.com/736x/da/56/26/da562626d5d38614a2e5df84e57043bc.jpg",
+      "lock": false
+    },
+    {
+      "id": 25,
+      "name_category": "AI",
+      "title": "Tech Abstract",
+      "image": "https://i.pinimg.com/736x/91/2f/b2/912fb2d8aa248de6f57489aac32b7dff.jpg",
+      "lock": false
+    },
+    {
+      "id": 26,
+      "name_category": "AI",
+      "title": "Digital Art",
+      "image": "https://i.pinimg.com/736x/6e/92/28/6e9228497f43ef2279e2fadff217c4d2.jpg",
+      "lock": true
+    },
+    {
+      "id": 27,
+      "name_category": "Cinematic",
+      "title": "Film Noir",
+      "image": "https://i.pinimg.com/1200x/d9/f5/8d/d9f58d16c8c1d5b76ca7d3ab66b6578d.jpg",
+      "lock": false
+    },
+    {
+      "id": 28,
+      "name_category": "Cinematic",
+      "title": "Blade Runner Style",
+      "image": "https://i.pinimg.com/736x/24/b9/a7/24b9a7172271d4c92f235928393ba3bd.jpg",
+      "lock": false
+    },
+    {
+      "id": 29,
+      "name_category": "Cinematic",
+      "title": "Epic Landscape",
+      "image": "https://i.pinimg.com/1200x/fa/ef/40/faef407e796a0a074665da015f47b493.jpg",
+      "lock": true
+    },
+    {
+      "id": 30,
+      "name_category": "Cinematic",
+      "title": "Dramatic Scene",
+      "image": "https://i.pinimg.com/1200x/19/e9/9c/19e99cacfc4f93217a97f86d2340b870.jpg",
+      "lock": false
+    },
+    {
+      "id": 31,
+      "name_category": "Artistic",
+      "title": "Abstract Expression",
+      "image": "https://i.pinimg.com/736x/da/01/75/da0175518becf8e7fd49a9347e36385c.jpg",
+      "lock": false
+    },
+    {
+      "id": 32,
+      "name_category": "Artistic",
+      "title": "Watercolor Dream",
+      "image": "https://i.pinimg.com/736x/89/d5/4d/89d54d0160e465581371135d92456ec6.jpg",
+      "lock": false
+    },
+    {
+      "id": 33,
+      "name_category": "Artistic",
+      "title": "Digital Canvas",
+      "image": "https://i.pinimg.com/1200x/c6/9d/3b/c69d3b0db6d929389bb89c7d8dd6be95.jpg",
+      "lock": true
+    },
+    {
+      "id": 34,
+      "name_category": "Artistic",
+      "title": "Oil Painting",
+      "image": "https://i.pinimg.com/736x/07/1c/f1/071cf11a7f7e7a3d65b4068e02460f1f.jpg",
+      "lock": false
+    },
+    {
+      "id": 35,
       "name_category": "Space",
-      "title":"Space 1",
-      "image":"file:///android_asset/image/space1.jpg",
-      "lock":true
+      "title": "Galaxy View",
+      "image": "https://i.pinimg.com/736x/38/f9/7e/38f97e3295ac7e339ce4186cfb2fa052.jpg",
+      "lock": false
     },
     {
-      "id":14,
+      "id": 36,
       "name_category": "Space",
-      "title":"Space 2",
-      "image":"file:///android_asset/image/space2.jpg",
-      "lock":false
+      "title": "Nebula Colors",
+      "image": "https://i.pinimg.com/736x/5b/72/90/5b729012a3b28ebd01037553c77876ab.jpg",
+      "lock": false
     },
     {
-      "id":15,
+      "id": 37,
       "name_category": "Space",
-      "title":"Space 3",
-      "image":"file:///android_asset/image/space3.jpg",
-      "lock":true
+      "title": "Earth from Space",
+      "image": "https://i.pinimg.com/1200x/fd/72/f4/fd72f4f3d5bb19bb3320362614e2c9de.jpg",
+      "lock": true
     },
     {
-      "id":16,
+      "id": 38,
       "name_category": "Space",
-      "title":"Space 4",
-      "image":"file:///android_asset/image/space4.jpg",
-      "lock":false
+      "title": "Cosmic Journey",
+      "image": "https://i.pinimg.com/1200x/3a/d4/11/3ad411594e0beb0ce63ebdf1343446b9.jpg",
+      "lock": false
     },
     {
-      "id":17,
+      "id": 39,
       "name_category": "Space",
-      "title":"Space 5",
-      "image":"file:///android_asset/image/space5.jpg",
-      "lock":true
+      "title": "Star Field",
+      "image": "https://i.pinimg.com/1200x/f1/f3/a9/f1f3a970a6ca06a436dc359b0cf12a22.jpg",
+      "lock": false
     },
     {
-      "id":18,
+      "id": 40,
       "name_category": "Space",
-      "title":"Space 6",
-      "image":"file:///android_asset/image/space6.jpg",
-      "lock":false
+      "title": "Astronaut Dream",
+      "image": "https://i.pinimg.com/736x/02/21/f8/0221f8a427bacd38a871639202f54be4.jpg",
+      "lock": true
     },
     {
-      "id":19,
-      "name_category": "Astronout",
-      "title":"Astronout 1",
-      "image":"file:///android_asset/image/astro1.jpg",
-      "lock":true
+      "id": 41,
+      "name_category": "Murim",
+      "title": "Ancient Warrior",
+      "image": "https://i.pinimg.com/736x/09/54/5e/09545ee0dce60ca29d472f55e4826302.jpg",
+      "lock": false
     },
     {
-      "id":20,
-      "name_category": "Astronout",
-      "title":"Astronout 2",
-      "image":"file:///android_asset/image/astro2.jpg",
-      "lock":false
+      "id": 42,
+      "name_category": "Murim",
+      "title": "Martial Arts Master",
+      "image": "https://i.pinimg.com/736x/fe/bf/4a/febf4a17f2b24689f8c356367c72a365.jpg",
+      "lock": false
     },
     {
-      "id":21,
-      "name_category": "Astronout",
-      "title":"Astronout 3",
-      "image":"file:///android_asset/image/astro3.jpg",
-      "lock":false
+      "id": 43,
+      "name_category": "Murim",
+      "title": "Temple Guardian",
+      "image": "https://i.pinimg.com/736x/73/5c/c9/735cc94a2fa3b0286a6a9768eee8e24f.jpg",
+      "lock": true
     },
     {
-      "id":22,
-      "name_category": "Astronout",
-      "title":"Astronout 4",
-      "image":"file:///android_asset/image/astro4.jpg",
-      "lock":true
+      "id": 44,
+      "name_category": "Murim",
+      "title": "Mountain Sect",
+      "image": "https://i.pinimg.com/1200x/eb/f0/ac/ebf0ac12bcc1d609e27059164c13845b.jpg",
+      "lock": false
     },
     {
-      "id":23,
-      "name_category": "Astronout",
-      "title":"Astronout 2",
-      "image":"file:///android_asset/image/astro5.jpg",
-      "lock":false
+      "id": 45,
+      "name_category": "Murim",
+      "title": "Sword Saint",
+      "image": "https://i.pinimg.com/1200x/5b/dc/fa/5bdcfa69485623dc428ebc8c6d0710b7.jpg",
+      "lock": false
     },
     {
-      "id":24,
-      "name_category": "Astronout",
-      "title":"Astronout 4",
-      "image":"file:///android_asset/image/astro6.jpg",
-      "lock":false
+      "id": 46,
+      "name_category": "Murim",
+      "title": "Cultivation Path",
+      "image": "https://i.pinimg.com/736x/20/de/98/20de986655004bc337b996e667e0bd16.jpg",
+      "lock": true
     },
     {
-      "id":25,
-      "name_category": "Media Art",
-      "title":"Vector Art 1",
-      "image":"file:///android_asset/image/art1.jpg",
-      "lock":true
+      "id": 47,
+      "name_category": "Animals",
+      "title": "Majestic Lion",
+      "image": "https://i.pinimg.com/736x/c9/f8/74/c9f8748efd9b723172104293a835431b.jpg",
+      "lock": false
     },
     {
-      "id":26,
-      "name_category": "Media Art",
-      "title":"Vector Art 2",
-      "image":"file:///android_asset/image/art2.jpg",
-      "lock":false
+      "id": 48,
+      "name_category": "Animals",
+      "title": "Wolf Pack",
+      "image": "https://i.pinimg.com/736x/62/21/4b/62214b57aef9c44b505abec98421ed9f.jpg",
+      "lock": false
     },
     {
-      "id":27,
-      "name_category": "Media Art",
-      "title":"Vector Art 3",
-      "image":"file:///android_asset/image/art3.jpg",
-      "lock":true
+      "id": 49,
+      "name_category": "Animals",
+      "title": "Eagle Flight",
+      "image": "https://i.pinimg.com/736x/28/c2/19/28c219653d6a19d2e98a08dc31ee60c5.jpg",
+      "lock": true
     },
     {
-      "id":28,
-      "name_category": "Media Art",
-      "title":"Vector Art 4",
-      "image":"file:///android_asset/image/art4.jpg",
-      "lock":false
+      "id": 50,
+      "name_category": "Animals",
+      "title": "Ocean Whale",
+      "image": "https://i.pinimg.com/736x/da/00/e8/da00e89ef21cee7281fb8f76708c6b29.jpg",
+      "lock": false
     },
     {
-      "id":29,
-      "name_category": "Media Art",
-      "title":"Vector Art 5",
-      "image":"file:///android_asset/image/art5.jpg",
-      "lock":false
+      "id": 51,
+      "name_category": "Animals",
+      "title": "Forest Bear",
+      "image": "https://i.pinimg.com/736x/e6/a4/5a/e6a45a245c61e8140fa07164f05b6548.jpg",
+      "lock": false
     },
     {
-      "id":30,
-      "name_category": "Media Art",
-      "title":"Vector Art 6",
-      "image":"file:///android_asset/image/art6.jpg",
-      "lock":false
+      "id": 52,
+      "name_category": "Animals",
+      "title": "Tropical Birds",
+      "image": "https://i.pinimg.com/736x/a3/67/d7/a367d745deaef9020620f50d7f06d733.jpg",
+      "lock": true
     }
   ]
 }
