@@ -86,6 +86,59 @@
 
   "Categories": [
   {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/1200x/e5/80/e1/e580e10f0cabb45b2c540db7be3f76d5.jpg"
+    },
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/736x/d9/a0/0c/d9a00c2ef46c6e1ae9246d8cc733742b.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Urban",
+      "image": "https://i.pinimg.com/1200x/a2/81/18/a2811892e94cf2ede0ed45d85e163062.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Aesthetic",
+      "image": "https://i.pinimg.com/1200x/31/b6/fa/31b6faef1c5c7a7cfb29ff11e3c95274.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "AI",
+      "image": "https://i.pinimg.com/736x/53/38/a4/5338a465679ba82a49a9cd896ca162bd.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Cinematic",
+      "image": "https://i.pinimg.com/1200x/d9/f5/8d/d9f58d16c8c1d5b76ca7d3ab66b6578d.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Artistic",
+      "image": "https://i.pinimg.com/736x/da/01/75/da0175518becf8e7fd49a9347e36385c.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Space",
+      "image": "https://i.pinimg.com/736x/38/f9/7e/38f97e3295ac7e339ce4186cfb2fa052.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Murim",
+      "image": "https://i.pinimg.com/736x/09/54/5e/09545ee0dce60ca29d472f55e4826302.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "Animals",
+      "image": "https://i.pinimg.com/736x/c9/f8/74/c9f8748efd9b723172104293a835431b.jpg"
+    }
+  ],
+
+  "Data": [
+  {
     "id": "1",
     "title": "Random",
     "image_url": "https://i.pinimg.com/1200x/ba/a5/a9/baa5a9bb52ab5d154c4f320f0ff3ceb1.jpg",
@@ -151,59 +204,6 @@
     "image_url": "  https://i.pinimg.com/1200x/5f/55/01/5f5501738296630d7cef700450ddb9df.jpg",
     "category": "Random"
   },
-  {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/1200x/e5/80/e1/e580e10f0cabb45b2c540db7be3f76d5.jpg"
-    },
-    {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/736x/d9/a0/0c/d9a00c2ef46c6e1ae9246d8cc733742b.jpg"
-    },
-    {
-      "id": 2,
-      "name_category": "Urban",
-      "image": "https://i.pinimg.com/1200x/a2/81/18/a2811892e94cf2ede0ed45d85e163062.jpg"
-    },
-    {
-      "id": 3,
-      "name_category": "Aesthetic",
-      "image": "https://i.pinimg.com/1200x/31/b6/fa/31b6faef1c5c7a7cfb29ff11e3c95274.jpg"
-    },
-    {
-      "id": 4,
-      "name_category": "AI",
-      "image": "https://i.pinimg.com/736x/53/38/a4/5338a465679ba82a49a9cd896ca162bd.jpg"
-    },
-    {
-      "id": 5,
-      "name_category": "Cinematic",
-      "image": "https://i.pinimg.com/1200x/d9/f5/8d/d9f58d16c8c1d5b76ca7d3ab66b6578d.jpg"
-    },
-    {
-      "id": 6,
-      "name_category": "Artistic",
-      "image": "https://i.pinimg.com/736x/da/01/75/da0175518becf8e7fd49a9347e36385c.jpg"
-    },
-    {
-      "id": 7,
-      "name_category": "Space",
-      "image": "https://i.pinimg.com/736x/38/f9/7e/38f97e3295ac7e339ce4186cfb2fa052.jpg"
-    },
-    {
-      "id": 8,
-      "name_category": "Murim",
-      "image": "https://i.pinimg.com/736x/09/54/5e/09545ee0dce60ca29d472f55e4826302.jpg"
-    },
-    {
-      "id": 9,
-      "name_category": "Animals",
-      "image": "https://i.pinimg.com/736x/c9/f8/74/c9f8748efd9b723172104293a835431b.jpg"
-    }
-  ],
-
-  "Data": [
     {
       "id": 1,
       "name_category": "Nature",
