@@ -84,58 +84,84 @@
     }
   ],
 
-  "Categories": [
+  "Categories": 
+[
   {
-      "id": 1,
-      "name_category": "Random",
-      "image": "https://i.pinimg.com/1200x/e5/80/e1/e580e10f0cabb45b2c540db7be3f76d5.jpg"
-    },
-    {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/736x/d9/a0/0c/d9a00c2ef46c6e1ae9246d8cc733742b.jpg"
-    },
-    {
-      "id": 2,
-      "name_category": "Urban",
-      "image": "https://i.pinimg.com/1200x/a2/81/18/a2811892e94cf2ede0ed45d85e163062.jpg"
-    },
-    {
-      "id": 3,
-      "name_category": "Aesthetic",
-      "image": "https://i.pinimg.com/1200x/31/b6/fa/31b6faef1c5c7a7cfb29ff11e3c95274.jpg"
-    },
-    {
-      "id": 4,
-      "name_category": "AI",
-      "image": "https://i.pinimg.com/736x/53/38/a4/5338a465679ba82a49a9cd896ca162bd.jpg"
-    },
-    {
-      "id": 5,
-      "name_category": "Cinematic",
-      "image": "https://i.pinimg.com/1200x/d9/f5/8d/d9f58d16c8c1d5b76ca7d3ab66b6578d.jpg"
-    },
-    {
-      "id": 6,
-      "name_category": "Artistic",
-      "image": "https://i.pinimg.com/736x/da/01/75/da0175518becf8e7fd49a9347e36385c.jpg"
-    },
-    {
-      "id": 7,
-      "name_category": "Space",
-      "image": "https://i.pinimg.com/736x/38/f9/7e/38f97e3295ac7e339ce4186cfb2fa052.jpg"
-    },
-    {
-      "id": 8,
-      "name_category": "Murim",
-      "image": "https://i.pinimg.com/736x/09/54/5e/09545ee0dce60ca29d472f55e4826302.jpg"
-    },
-    {
-      "id": 9,
-      "name_category": "Animals",
-      "image": "https://i.pinimg.com/736x/c9/f8/74/c9f8748efd9b723172104293a835431b.jpg"
-    }
-  ],
+    "id": 1,
+    "name_category": "Blue Walls",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/2d_cartoon_boy_s_room_blue_walls_with%20(1).jpeg"
+  },
+  {
+    "id": 2,
+    "name_category": "Pink Walls",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/cartoon_kids_bedroom_background_bright_pink_walls%20(1).jpeg"
+  },
+  {
+    "id": 3,
+    "name_category": "Pastel Blue",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/cartoon_playroom_corner_background_pastel_blue_wall%20(1).jpeg"
+  },
+  {
+    "id": 4,
+    "name_category": "Warm Tones",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/cozy_cartoon_bedroom_warm_tones_bed_with%20(1).jpeg"
+  },
+  {
+    "id": 5,
+    "name_category": "Isometric",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/cute_isometric_kids_bedroom_scene_soft_chibi_style%20(1).jpeg"
+  },
+  {
+    "id": 6,
+    "name_category": "Retro Pixel",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/retro_16_bit_pixel_art_kids_bedroom_bright%20(1).jpeg"
+  },
+  {
+    "id": 7,
+    "name_category": "Side View",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/side_view_2d_platform_game_kids_bedroom_light_colored%20(1).jpeg"
+  },
+  {
+    "id": 8,
+    "name_category": "Soft Pastel",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/soft_pastel_children_s_bedroom_background_gentle_watercolor%20(1).jpeg"
+  },
+  {
+    "id": 9,
+    "name_category": "Vibrant Clean",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_clean%20(1).jpeg"
+  },
+  {
+    "id": 10,
+    "name_category": "Vibrant Fewer",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_fewer%20(1).jpeg"
+  },
+  {
+    "id": 11,
+    "name_category": "Vibrant Packed",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_packed%20(1).jpeg"
+  },
+  {
+    "id": 12,
+    "name_category": "Vibrant Side View",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_side_view%20(1).jpeg"
+  },
+  {
+    "id": 13,
+    "name_category": "Vibrant Simple",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_simple%20(1).jpeg"
+  },
+  {
+    "id": 14,
+    "name_category": "Vibrant Simplified",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_simplified%20(1).jpeg"
+  },
+  {
+    "id": 15,
+    "name_category": "Playroom",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_playroom_background_side_view_2d%20(1).jpeg"
+  }
+],
 
   "Data":
 [
