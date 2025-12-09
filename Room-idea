@@ -27,63 +27,6 @@
    
     }
   ],
-  "More": [
-    {
-      "id": 1,
-      "title": "Sample More App 1",
-      "image": "file:///android_asset/more/more1.jpg",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 2,
-      "title": "Sample More App 2",
-      "image": "file:///android_asset/more/more2.jpg",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 3,
-      "title": "Sample More App 3",
-      "image": "file:///android_asset/more/more3.jpg",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 4,
-      "title": "Sample More App 4",
-      "image": "file:///android_asset/more/more4.jpg",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 5,
-      "title": "Sample More App 5",
-      "image": "file:///android_asset/more/more5.jpg",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 6,
-      "title": "Sample More App 6",
-      "image": "file:///android_asset/more/more6.webp",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 7,
-      "title": "Sample More App 7",
-      "image": "file:///android_asset/more/more7.jpg",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 8,
-      "title": "Sample More App 8",
-      "image": "file:///android_asset/more/more8.jpg",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 9,
-      "title": "Sample More App 9",
-      "image": "file:///android_asset/more/more9.jpg",
-      "link": "https://aliendro.id/"
-    }
-  ],
-
   "Categories": 
 [
   {
