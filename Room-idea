@@ -30,80 +30,45 @@
   "Categories": 
 [
   {
-    "id": 1,
-    "name_category": "Blue Walls",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/2d_cartoon_boy_s_room_blue_walls_with%20(1).jpeg"
-  },
-  {
-    "id": 2,
-    "name_category": "Pink Walls",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/cartoon_kids_bedroom_background_bright_pink_walls%20(1).jpeg"
-  },
-  {
-    "id": 3,
-    "name_category": "Pastel Blue",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/cartoon_playroom_corner_background_pastel_blue_wall%20(1).jpeg"
-  },
-  {
-    "id": 4,
-    "name_category": "Warm Tones",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/cozy_cartoon_bedroom_warm_tones_bed_with%20(1).jpeg"
-  },
-  {
-    "id": 5,
-    "name_category": "Isometric",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/cute_isometric_kids_bedroom_scene_soft_chibi_style%20(1).jpeg"
-  },
-  {
-    "id": 6,
-    "name_category": "Retro Pixel",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/retro_16_bit_pixel_art_kids_bedroom_bright%20(1).jpeg"
-  },
-  {
-    "id": 7,
-    "name_category": "Side View",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/side_view_2d_platform_game_kids_bedroom_light_colored%20(1).jpeg"
-  },
-  {
-    "id": 8,
-    "name_category": "Soft Pastel",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/soft_pastel_children_s_bedroom_background_gentle_watercolor%20(1).jpeg"
-  },
-  {
-    "id": 9,
-    "name_category": "Vibrant Clean",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_clean%20(1).jpeg"
-  },
-  {
-    "id": 10,
-    "name_category": "Vibrant Fewer",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_fewer%20(1).jpeg"
-  },
-  {
-    "id": 11,
-    "name_category": "Vibrant Packed",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_packed%20(1).jpeg"
-  },
-  {
-    "id": 12,
-    "name_category": "Vibrant Side View",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_side_view%20(1).jpeg"
-  },
-  {
-    "id": 13,
-    "name_category": "Vibrant Simple",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_simple%20(1).jpeg"
-  },
-  {
-    "id": 14,
-    "name_category": "Vibrant Simplified",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_simplified%20(1).jpeg"
-  },
-  {
-    "id": 15,
-    "name_category": "Playroom",
-    "image": "https://raw.githubusercontent.com/zakaria-GR/android/main/room%20walls/vibrant_cartoon_kids_playroom_background_side_view_2d%20(1).jpeg"
-  }
+  "id": 1,
+  "name_category": "Cartoon",
+  "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/2d_cartoon_boy_s_room_blue_walls_with%20(1).jpeg"
+},
+{
+  "id": 2,
+  "name_category": "Pastel",
+  "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/cartoon_playroom_corner_background_pastel_blue_wall%20(1).jpeg"
+},
+{
+  "id": 3,
+  "name_category": "Isometric",
+  "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/cute_isometric_kids_bedroom_scene_soft_chibi_style%20(1).jpeg"
+},
+{
+  "id": 4,
+  "name_category": "Pixel Art",
+  "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/retro_16_bit_pixel_art_kids_bedroom_bright%20(1).jpeg"
+},
+{
+  "id": 5,
+  "name_category": "Room Ideas",
+  "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/side_view_2d_platform_game_kids_bedroom_light_colored%20(1).jpeg"
+},
+{
+  "id": 6,
+  "name_category": "Kawaii",
+  "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/super_cute_kawaii_kids_bedroom_chibi_proportions%20(1).jpeg"
+},
+{
+  "id": 7,
+  "name_category": "Vibrant",
+  "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_bakery_kitchen_game_background_side_view%20(1).jpeg"
+},
+{
+  "id": 8,
+  "name_category": "Minimal",
+  "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_minimalist_office_game_background_side_view%20(1).jpeg"
+}
 ],
 
   "Data":
