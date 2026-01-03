@@ -78,7 +78,7 @@
     "name_category": "Cartoon",
     "title": "2D Cartoon Boy S Room Blue Walls With (1)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/2d_cartoon_boy_s_room_blue_walls_with%20(1).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -86,7 +86,7 @@
     "name_category": "Cartoon",
     "title": "2D Cartoon Boy S Room Blue Walls With (2)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/2d_cartoon_boy_s_room_blue_walls_with%20(2).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
