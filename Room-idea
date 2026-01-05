@@ -3,9 +3,9 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/9214589741",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_banner": "ca-app-pub-8317165529769416/1817634578",
+      "main_ads_intertitial":"ca-app-pub-8317165529769416/8403563535",
+      "main_ads_rewards":"ca-app-pub-8317165529769416/4791621586",
       "main_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
@@ -14,7 +14,7 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max":"1",
-      "interval_intertitial": 299,
+      "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -86,7 +86,7 @@
     "name_category": "Cartoon",
     "title": "2D Cartoon Boy S Room Blue Walls With (2)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/2d_cartoon_boy_s_room_blue_walls_with%20(2).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -102,7 +102,7 @@
     "name_category": "Cartoon",
     "title": "2D Cartoon Boy S Room Blue Walls With",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/2d_cartoon_boy_s_room_blue_walls_with.jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -118,7 +118,7 @@
     "name_category": "Cartoon",
     "title": "Cartoon Kids Bedroom Background Bright Pink Walls (2)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/cartoon_kids_bedroom_background_bright_pink_walls%20(2).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -158,7 +158,7 @@
     "name_category": "Pastel",
     "title": "Cartoon Playroom Corner Background Pastel Blue Wall (3)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/cartoon_playroom_corner_background_pastel_blue_wall%20(3).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Playroom"
   },
   {
@@ -190,7 +190,7 @@
     "name_category": "Cartoon",
     "title": "Cozy Cartoon Bedroom Warm Tones Bed With (3)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/cozy_cartoon_bedroom_warm_tones_bed_with%20(3).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -206,7 +206,7 @@
     "name_category": "Isometric",
     "title": "Cute Isometric Kids Bedroom Scene Soft Chibi Style (1)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/cute_isometric_kids_bedroom_scene_soft_chibi_style%20(1).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -326,7 +326,7 @@
     "name_category": "Pastel",
     "title": "Soft Pastel Children S Bedroom Background Gentle Watercolor",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/soft_pastel_children_s_bedroom_background_gentle_watercolor.jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -342,7 +342,7 @@
     "name_category": "Kawaii",
     "title": "Super Cute Kawaii Kids Bedroom Chibi Proportions (2)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/super_cute_kawaii_kids_bedroom_chibi_proportions%20(2).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -366,7 +366,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Bakery Kitchen Game Background Side View (1)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_bakery_kitchen_game_background_side_view%20(1).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Kitchen"
   },
   {
@@ -374,7 +374,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Bakery Kitchen Game Background Side View (2)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_bakery_kitchen_game_background_side_view%20(2).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Kitchen"
   },
   {
@@ -382,7 +382,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Bakery Kitchen Game Background Side View (3)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_bakery_kitchen_game_background_side_view%20(3).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Kitchen"
   },
   {
@@ -406,7 +406,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Bakery Kitchen Game Background Side View (6)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_bakery_kitchen_game_background_side_view%20(6).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Kitchen"
   },
   {
@@ -414,7 +414,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Bakery Kitchen Game Background Side View (7)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_bakery_kitchen_game_background_side_view%20(7).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Kitchen"
   },
   {
@@ -422,7 +422,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Bakery Kitchen Game Background Side View",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_bakery_kitchen_game_background_side_view.jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Kitchen"
   },
   {
@@ -438,7 +438,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Creative Studio Game Background Side View (2)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_creative_studio_game_background_side_view%20(2).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Studio"
   },
   {
@@ -486,7 +486,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Farmhouse Kitchen Game Background Side View",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_farmhouse_kitchen_game_background_side_view.jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Kitchen"
   },
   {
@@ -510,7 +510,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Bedroom Game Background Clean (3)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_clean%20(3).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -534,7 +534,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Bedroom Game Background Fewer (2)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_fewer%20(2).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -550,7 +550,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Bedroom Game Background Fewer",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_fewer.jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -582,7 +582,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Bedroom Game Background Packed",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_packed.jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -606,7 +606,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Bedroom Game Background Side View (1)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_side_view%20(1).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -630,7 +630,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Bedroom Game Background Side View (12)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_side_view%20(12).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -638,7 +638,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Bedroom Game Background Side View (13)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_side_view%20(13).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -670,7 +670,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Bedroom Game Background Side View (2) Copy",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_side_view%20(2)%20copy.jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -686,7 +686,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Bedroom Game Background Side View (3) Copy 2",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_side_view%20(3)%20copy%202.jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -718,7 +718,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Bedroom Game Background Side View (5)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_side_view%20(5).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -766,7 +766,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Bedroom Game Background Side View Copy",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_side_view%20copy.jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -814,7 +814,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Bedroom Game Background Simplified (1)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_simplified%20(1).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -822,7 +822,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Bedroom Game Background Simplified (2)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_bedroom_game_background_simplified%20(2).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Bedroom"
   },
   {
@@ -862,7 +862,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kids Playroom Background Side View 2D (3)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kids_playroom_background_side_view_2d%20(3).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Playroom"
   },
   {
@@ -878,7 +878,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kitchen Game Background Side View 2D (1)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kitchen_game_background_side_view_2d%20(1).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Kitchen"
   },
   {
@@ -894,7 +894,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kitchen Game Background Side View 2D (3)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kitchen_game_background_side_view_2d%20(3).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Kitchen"
   },
   {
@@ -910,7 +910,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kitchen Game Background Side View 2D (5)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kitchen_game_background_side_view_2d%20(5).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Kitchen"
   },
   {
@@ -934,7 +934,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Kitchen Game Background Side View 2D",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_kitchen_game_background_side_view_2d.jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Kitchen"
   },
   {
@@ -950,7 +950,7 @@
     "name_category": "Minimal",
     "title": "Vibrant Cartoon Minimalist Office Game Background Side View (2)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_minimalist_office_game_background_side_view%20(2).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Study Room"
   },
   {
@@ -966,7 +966,7 @@
     "name_category": "Minimal",
     "title": "Vibrant Cartoon Minimalist Office Game Background Side View",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_minimalist_office_game_background_side_view.jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Study Room"
   },
   {
@@ -974,7 +974,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Modern Kitchen Game Background Side View (1)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_modern_kitchen_game_background_side_view%20(1).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Kitchen"
   },
   {
@@ -990,7 +990,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Modern Kitchen Game Background Side View (3)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_modern_kitchen_game_background_side_view%20(3).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Kitchen"
   },
   {
@@ -1006,7 +1006,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Writer S Study Game Background Side View (1)",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_writer_s_study_game_background_side_view%20(1).jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Study Room"
   },
   {
@@ -1022,7 +1022,7 @@
     "name_category": "Vibrant",
     "title": "Vibrant Cartoon Writer S Study Game Background Side View",
     "image": "https://raw.githubusercontent.com/zakaria-GR/androidreo/main/room%20walls/vibrant_cartoon_writer_s_study_game_background_side_view.jpeg",
-    "lock": false,
+    "lock": true,
     "room_type": "Study Room"
   },
   {
