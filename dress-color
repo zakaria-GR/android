@@ -1,0 +1,19 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FAN",
+      "select_backup_ads": "ADMOB",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
+      "main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner": "",
+      "backup_ads_interstitial": "",
+      "backup_ads_rewards": "",
+      "backup_ads_natives": "",
+      "interval_interstitial": 1,
+      "open_ads_on_start": false,
+      "open_ads_on_resume": false
+    }
+  ]
+}
