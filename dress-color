@@ -1,8 +1,8 @@
 {
   "Ads": [
     {
-      "select_main_ads": "",
-      "select_backup_ads": "",
+      "select_main_ads": "FAN",
+      "select_backup_ads": "FAN",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_interstitial": "ca-app-pub-3940256099942544/1033173712",
       "main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
