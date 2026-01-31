@@ -1,0 +1,327 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-8317165529769416/8138610358",
+      "main_ads_intertitial":"ca-app-pub-8317165529769416/2825083231",
+      "main_ads_rewards":"ca-app-pub-8317165529769416/6129903426",
+      "main_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 4,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+   
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "title": "Sample More App 1",
+      "image": "file:///android_asset/more/more1.jpg",
+      "link": "https://aliendro.id/"
+    },
+    {
+      "id": 2,
+      "title": "Sample More App 2",
+      "image": "file:///android_asset/more/more2.jpg",
+      "link": "https://aliendro.id/"
+    },
+    {
+      "id": 3,
+      "title": "Sample More App 3",
+      "image": "file:///android_asset/more/more3.jpg",
+      "link": "https://aliendro.id/"
+    },
+    {
+      "id": 4,
+      "title": "Sample More App 4",
+      "image": "file:///android_asset/more/more4.jpg",
+      "link": "https://aliendro.id/"
+    },
+    {
+      "id": 5,
+      "title": "Sample More App 5",
+      "image": "file:///android_asset/more/more5.jpg",
+      "link": "https://aliendro.id/"
+    },
+    {
+      "id": 6,
+      "title": "Sample More App 6",
+      "image": "file:///android_asset/more/more6.webp",
+      "link": "https://aliendro.id/"
+    },
+    {
+      "id": 7,
+      "title": "Sample More App 7",
+      "image": "file:///android_asset/more/more7.jpg",
+      "link": "https://aliendro.id/"
+    },
+    {
+      "id": 8,
+      "title": "Sample More App 8",
+      "image": "file:///android_asset/more/more8.jpg",
+      "link": "https://aliendro.id/"
+    },
+    {
+      "id": 9,
+      "title": "Sample More App 9",
+      "image": "file:///android_asset/more/more9.jpg",
+      "link": "https://aliendro.id/"
+    }
+  ],
+
+  "Categories": [
+
+  {
+      "id": 1,
+      "name_category": "Random",
+      "image": "https://i.pinimg.com/1200x/e5/80/e1/e580e10f0cabb45b2c540db7be3f76d5.jpg"
+    },
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/736x/d9/a0/0c/d9a00c2ef46c6e1ae9246d8cc733742b.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Urban",
+      "image": "https://i.pinimg.com/1200x/a2/81/18/a2811892e94cf2ede0ed45d85e163062.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Aesthetic",
+      "image": "https://i.pinimg.com/1200x/31/b6/fa/31b6faef1c5c7a7cfb29ff11e3c95274.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "AI",
+      "image": "https://i.pinimg.com/736x/53/38/a4/5338a465679ba82a49a9cd896ca162bd.jpg"
+    }
+  ],
+
+  "Data": [
+  {
+    "id": "1",
+    "name_category": "Space",
+    "title": "Space",
+    "image": "https://i.pinimg.com/1200x/c5/b0/39/c5b039873c057d4d83552c62cbbe7a02.jpg",
+    "lock": false
+  },
+  {
+    "id": "2",
+    "name_category": "Space",
+    "title": "Space",
+    "image": "https://i.pinimg.com/1200x/52/e5/e7/52e5e74199028cb718f259536add67c0.jpg",
+    "lock": false
+  },
+  {
+    "id": "3",
+    "name_category": "Space",
+    "title": "Space",
+    "image": "https://i.pinimg.com/1200x/15/64/28/1564285bd58c6847ee202e384278bd83.jpg",
+    "lock": false
+  },
+  {
+    "id": "4",
+    "name_category": "Space",
+    "title": "Space",
+    "image": "https://i.pinimg.com/1200x/0c/01/7d/0c017d8931cc16d923f3579b26464133.jpg",
+    "lock": true
+  },
+  {
+    "id": "5",
+    "name_category": "Space",
+    "title": "Space",
+    "image": "https://i.pinimg.com/1200x/32/e7/21/32e72116bd59e764d3a954dd217529f1.jpg",
+    "lock": false
+  },
+  {
+    "id": "6",
+    "name_category": "Space",
+    "title": "Space",
+    "image": "https://i.pinimg.com/1200x/85/0b/c4/850bc494f47feb5dfed43fae1dedfc54.jpg",
+    "lock": false
+  },
+  {
+    "id": "7",
+    "name_category": "Space",
+    "title": "Space",
+    "image": "https://i.pinimg.com/1200x/86/ec/d2/86ecd2edfa4be0734043ded19a6533b3.jpg",
+    "lock": false
+  },
+  {
+    "id": "8",
+    "name_category": "Space",
+    "title": "Space",
+    "image": "https://i.pinimg.com/1200x/05/a4/e1/05a4e10eba04d61442bf8f9d6a3aab1e.jpg",
+    "lock": false
+  },
+  {
+    "id": "9",
+    "name_category": "Space",
+    "title": "Space",
+    "image": "https://i.pinimg.com/1200x/21/8d/5c/218d5caeec821a727d3b59ae0f8fdf3b.jpg",
+    "lock": true
+  },
+  {
+    "id": "10",
+    "name_category": "Space",
+    "title": "Space",
+    "image": "https://i.pinimg.com/1200x/78/d7/ca/78d7ca6a267d02ce2ba6f76b34777ac1.jpg",
+    "lock": false
+  },
+  {
+    "id": "11",
+    "name_category": "Space",
+    "title": "Space",
+    "image": "https://i.pinimg.com/1200x/6c/10/18/6c101837331f62c6eefb0c260e3bf878.jpg",
+    "lock": false
+  },
+  {
+    "id": "1",
+    "name_category": "Cute",
+    "title": "Cute",
+    "image": "https://i.pinimg.com/1200x/45/8d/2d/458d2d4994fcc07504056462104fc1dd.jpg",
+    "lock": false
+  },
+  {
+    "id": "2",
+    "name_category": "Cute",
+    "title": "Cute",
+    "image": "https://i.pinimg.com/1200x/19/84/f4/1984f4d5e08faca78e6f8b3daa905b6e.jpg",
+    "lock": false
+  },
+  {
+    "id": "3",
+    "name_category": "Cute",
+    "title": "Cute",
+    "image": "https://i.pinimg.com/1200x/8b/bd/a8/8bbda8ff660e98d3d5cf429b6fa7cbab.jpg",
+    "lock": false
+  },
+  {
+    "id": "4",
+    "name_category": "Cute",
+    "title": "Cute",
+    "image": "https://i.pinimg.com/1200x/97/e7/ed/97e7edecac4fac5f6ac8d29ef4a5d80c.jpg",
+    "lock": true
+  },
+  {
+    "id": "5",
+    "name_category": "Cute",
+    "title": "Cute",
+    "image": "https://i.pinimg.com/1200x/4e/10/43/4e1043eaae75288071c7168a20337717.jpg",
+    "lock": false
+  },
+  {
+    "id": "6",
+    "name_category": "Cute",
+    "title": "Cute",
+    "image": "https://i.pinimg.com/1200x/cc/8e/fa/cc8efafb7ae3bc52fcb66be12c27a59f.jpg",
+    "lock": false
+  },
+  {
+    "id": "7",
+    "name_category": "Cute",
+    "title": "Cute",
+    "image": "https://i.pinimg.com/1200x/12/c3/99/12c399938b4e892b6a6dc810c0023c0e.jpg",
+    "lock": false
+  },
+  {
+    "id": "8",
+    "name_category": "Cute",
+    "title": "Cute",
+    "image": "https://i.pinimg.com/1200x/a3/e2/ee/a3e2ee9ab6b06b2d15318c36992c0acb.jpg",
+    "lock": false
+  },
+  {
+    "id": "9",
+    "name_category": "Cute",
+    "title": "Cute",
+    "image": "https://i.pinimg.com/1200x/19/4c/e7/194ce7cbb37a14238841dd3acdf9e969.jpg",
+    "lock": true
+  },
+  {
+    "id": "10",
+    "name_category": "Cute",
+    "title": "Cute",
+    "image": "https://i.pinimg.com/1200x/35/19/b7/3519b70b60e955e497cd495737f2473d.jpg",
+    "lock": false
+  },
+  {
+    "id": "11",
+    "name_category": "Cute",
+    "title": "Cute",
+    "image": "https://i.pinimg.com/1200x/de/ab/35/deab352a73e965029b021d2400a9ed9a.jpg",
+    "lock": false
+  },
+  {
+    "id": "1",
+    "name_category": "Artistic",
+    "title": "Artistic",
+    "image": "https://i.pinimg.com/1200x/b7/0c/ca/b70cca203dd2a2e40dd94cce05a7a189.jpg",
+    "lock": false
+  },
+  {
+    "id": "2",
+    "name_category": "Artistic",
+    "title": "Artistic",
+    "image": "https://i.pinimg.com/1200x/f9/09/1b/f9091b8f0f7bcbe1e3e4d92725c27981.jpg",
+    "lock": false
+  },
+  {
+    "id": "3",
+    "name_category": "Artistic",
+    "title": "Artistic",
+    "image": "https://i.pinimg.com/1200x/68/de/7f/68de7fd61ce60b7795abc4cdacd73b5f.jpg",
+    "lock": false
+  },
+  {
+    "id": "4",
+    "name_category": "Artistic",
+    "title": "Artistic",
+    "image": "https://i.pinimg.com/1200x/9d/ad/3a/9dad3a4580327b127785de9948a9d9a4.jpg",
+    "lock": true
+  },
+  {
+    "id": "5",
+    "name_category": "Artistic",
+    "title": "Artistic",
+    "image": "https://i.pinimg.com/1200x/24/4c/40/244c409cdfa8a5b22a96e655ab902438.jpg",
+    "lock": false
+  },
+  {
+    "id": "6",
+    "name_category": "Artistic",
+    "title": "Artistic",
+    "image": "https://i.pinimg.com/1200x/3a/1c/b9/3a1cb97f5a50509e04e2575644d79770.jpg",
+    "lock": false
+  },
+  {
+    "id": "7",
+    "name_category": "Artistic",
+    "title": "Artistic",
+    "image": "https://i.pinimg.com/1200x/f6/85/0c/f6850c05da9b1c87318c8890b6cd573f.jpg",
+    "lock": false
+  },
+  {
+    "id": "8",
+    "name_category": "Artistic",
+    "title": "Artistic",
+    "image": "https://i.pinimg.com/1200x/7f/74/d0/7f74d029821a083407fa12d4c7e48cdc.jpg",
+    "lock": false
+  },
+]
