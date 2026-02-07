@@ -27,34 +27,6 @@
    
     }
   ],
-  "Categories": [
-
-  {
-      "id": 1,
-      "name_category": "Random",
-      "image": "https://i.pinimg.com/1200x/e5/80/e1/e580e10f0cabb45b2c540db7be3f76d5.jpg"
-    },
-    {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/736x/d9/a0/0c/d9a00c2ef46c6e1ae9246d8cc733742b.jpg"
-    },
-    {
-      "id": 2,
-      "name_category": "Urban",
-      "image": "https://i.pinimg.com/1200x/a2/81/18/a2811892e94cf2ede0ed45d85e163062.jpg"
-    },
-    {
-      "id": 3,
-      "name_category": "Aesthetic",
-      "image": "https://i.pinimg.com/1200x/31/b6/fa/31b6faef1c5c7a7cfb29ff11e3c95274.jpg"
-    },
-    {
-      "id": 4,
-      "name_category": "AI",
-      "image": "https://i.pinimg.com/736x/53/38/a4/5338a465679ba82a49a9cd896ca162bd.jpg"
-    }
-  ],
 
   "Data": [
 
