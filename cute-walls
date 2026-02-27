@@ -31,6 +31,11 @@
   "Data": [
     {"id": "1", "name_category": "Aesthetic", "title": "Aesthetic", "image": "https://i.pinimg.com/originals/8e/bb/39/8ebb394efb65968310ab2f69ecdfbc7d.jpg", "lock": false},
   {"id": "2", "name_category": "Aesthetic", "title": "Aesthetic", "image": "https://i.pinimg.com/originals/c4/cf/16/c4cf16cb8e4d18da00a041fbe5c7b31d.jpg", "lock": true},
+{ "id": 35, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/736x/0a/d9/63/0ad96348f925d8f908a164f41b9642eb.jpg", "lock": true },
+    { "id": 1, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/1200x/45/8d/2d/458d2d4994fcc07504056462104fc1dd.jpg", "lock": false },
+    { "id": 2, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/1200x/19/84/f4/1984f4d5e08faca78e6f8b3daa905b6e.jpg", "lock": false },
+    { "id": 3, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/1200x/8b/bd/a8/8bbda8ff660e98d3d5cf429b6fa7cbab.jpg", "lock": false },
+    { "id": 4, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/1200x/97/e7/ed/97e7edecac4fac5f6ac8d29ef4a5d80c.jpg", "lock": true },
   {"id": "3", "name_category": "Aesthetic", "title": "Aesthetic", "image": "https://i.pinimg.com/originals/2c/bc/8c/2cbc8cebc664851be1169da64a65d9ed.jpg", "lock": false},
   {"id": "4", "name_category": "Aesthetic", "title": "Aesthetic", "image": "https://i.pinimg.com/originals/ee/7a/e5/ee7ae5354856be9e62d0d6a7bc015dc1.jpg", "lock": true},
   {"id": "5", "name_category": "Aesthetic", "title": "Aesthetic", "image": "https://i.pinimg.com/originals/59/d0/7f/59d07fa9745441cde33639efd8665844.jpg", "lock": false},
@@ -1078,12 +1083,7 @@
   { "id": 33, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/736x/0c/b6/4f/0cb64f97ac0747d2d384ca19484571ec.jpg", "lock": false },
   { "id": 34, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/736x/92/f5/29/92f529ef36b12d0d5aa575e0c0c629ae.jpg", "lock": false },
 
-  { "id": 35, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/736x/0a/d9/63/0ad96348f925d8f908a164f41b9642eb.jpg", "lock": true },
-    { "id": 1, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/1200x/45/8d/2d/458d2d4994fcc07504056462104fc1dd.jpg", "lock": false },
-    { "id": 2, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/1200x/19/84/f4/1984f4d5e08faca78e6f8b3daa905b6e.jpg", "lock": false },
-    { "id": 3, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/1200x/8b/bd/a8/8bbda8ff660e98d3d5cf429b6fa7cbab.jpg", "lock": false },
-    { "id": 4, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/1200x/97/e7/ed/97e7edecac4fac5f6ac8d29ef4a5d80c.jpg", "lock": true },
-
+  
     { "id": 5, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/1200x/4e/10/43/4e1043eaae75288071c7168a20337717.jpg", "lock": false },
     { "id": 6, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/1200x/cc/8e/fa/cc8efafb7ae3bc52fcb66be12c27a59f.jpg", "lock": false },
     { "id": 7, "name_category": "Cute", "title": "Cute", "image": "https://i.pinimg.com/1200x/12/c3/99/12c399938b4e892b6a6dc810c0023c0e.jpg", "lock": false },
