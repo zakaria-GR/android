@@ -33,115 +33,91 @@
       "title": "Sample More App 1",
       "image": "file:///android_asset/more/more1.jpg",
       "link": "https://aliendro.id/"
-    },
-    {
-      "id": 2,
-      "title": "Sample More App 2",
-      "image": "file:///android_asset/more/more2.jpg",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 3,
-      "title": "Sample More App 3",
-      "image": "file:///android_asset/more/more3.jpg",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 4,
-      "title": "Sample More App 4",
-      "image": "file:///android_asset/more/more4.jpg",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 5,
-      "title": "Sample More App 5",
-      "image": "file:///android_asset/more/more5.jpg",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 6,
-      "title": "Sample More App 6",
-      "image": "file:///android_asset/more/more6.webp",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 7,
-      "title": "Sample More App 7",
-      "image": "file:///android_asset/more/more7.jpg",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 8,
-      "title": "Sample More App 8",
-      "image": "file:///android_asset/more/more8.jpg",
-      "link": "https://aliendro.id/"
-    },
-    {
-      "id": 9,
-      "title": "Sample More App 9",
-      "image": "file:///android_asset/more/more9.jpg",
-      "link": "https://aliendro.id/"
     }
   ],
 
   "Categories": [
-
   {
-      "id": 1,
-      "name_category": "Random",
-      "image": "https://i.pinimg.com/1200x/e5/80/e1/e580e10f0cabb45b2c540db7be3f76d5.jpg"
-    },
-    {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/736x/d9/a0/0c/d9a00c2ef46c6e1ae9246d8cc733742b.jpg"
-    },
-    {
-      "id": 2,
-      "name_category": "Urban",
-      "image": "https://i.pinimg.com/1200x/a2/81/18/a2811892e94cf2ede0ed45d85e163062.jpg"
-    },
-    {
-      "id": 3,
-      "name_category": "Aesthetic",
-      "image": "https://i.pinimg.com/1200x/31/b6/fa/31b6faef1c5c7a7cfb29ff11e3c95274.jpg"
-    },
-    {
-      "id": 4,
-      "name_category": "AI",
-      "image": "https://i.pinimg.com/736x/53/38/a4/5338a465679ba82a49a9cd896ca162bd.jpg"
-    },
-    {
-      "id": 5,
-      "name_category": "Cinematic",
-      "image": "https://i.pinimg.com/1200x/d9/f5/8d/d9f58d16c8c1d5b76ca7d3ab66b6578d.jpg"
-    },
-    {
-      "id": 6,
-      "name_category": "Artistic",
-      "image": "https://i.pinimg.com/736x/da/01/75/da0175518becf8e7fd49a9347e36385c.jpg"
-    },
-    {
-      "id": 7,
-      "name_category": "Space",
-      "image": "https://i.pinimg.com/736x/38/f9/7e/38f97e3295ac7e339ce4186cfb2fa052.jpg"
-    },
-    {
-      "id": 8,
-      "name_category": "Murim",
-      "image": "https://i.pinimg.com/736x/09/54/5e/09545ee0dce60ca29d472f55e4826302.jpg"
-    },
-    {
-      "id": 9,
-      "name_category": "Animals",
-      "image": "https://i.pinimg.com/736x/c9/f8/74/c9f8748efd9b723172104293a835431b.jpg"
-    },
-    {
-      "id": 10,
-      "name_category": "Cute",
-      "image": "https://i.pinimg.com/1200x/28/21/5c/28215c82fb5dd217ce61c67359b7835d.jpg"
-    }
-  ],
+    "id": 1,
+    "name_category": "Aesthetic",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/SourceControl/main/wallpapers_4kwallview/aesthetic/wallpaper_0094.webp"
+  },
+  {
+    "id": 2,
+    "name_category": "Anime",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/SourceControl/main/wallpapers_4kwallview/anime/wallpaper_0026.webp"
+  },
+  {
+    "id": 3,
+    "name_category": "Cool",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/SourceControl/main/wallpapers_4kwallview/cool/wallpaper_0003.webp"
+  },
+  {
+    "id": 4,
+    "name_category": "Iphone",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/SourceControl/main/wallpapers_4kwallview/iphone/wallpaper_0038.webp"
+  },
+  {
+    "id": 5,
+    "name_category": "Minimalist",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/SourceControl/main/wallpapers_4kwallview/minimalist/wallpaper_0123.webp"
+  },
+  {
+    "id": 6,
+    "name_category": "Space",
+    "image": "https://raw.githubusercontent.com/zakaria-GR/SourceControl/main/wallpapers_4kwallview/space/wallpaper_0059.webp"
+  },
+  {
+    "id": 7,
+    "name_category": "Random",
+    "image": "https://i.pinimg.com/1200x/a6/dc/c5/a6dcc5ce2a4ee9359c31f038d3142a72.jpg"
+  },
+  {
+    "id": 8,
+    "name_category": "Cute",
+    "image": "https://i.pinimg.com/1200x/a3/e2/ee/a3e2ee9ab6b06b2d15318c36992c0acb.jpg"
+  },
+  {
+    "id": 9,
+    "name_category": "Murim",
+    "image": "https://i.pinimg.com/1200x/aa/53/38/aa5338ac513b349fe918da3a402f9fad.jpg"
+  },
+  {
+    "id": 10,
+    "name_category": "Urban",
+    "image": "https://i.pinimg.com/1200x/cb/06/86/cb068670c8a382d95bb5a83b0023525f.jpg"
+  },
+  {
+    "id": 11,
+    "name_category": "Chill",
+    "image": "https://i.pinimg.com/1200x/6d/fc/97/6dfc97a37553b33d96733efaa173216b.jpg"
+  },
+  {
+    "id": 12,
+    "name_category": "Artistic",
+    "image": "https://i.pinimg.com/736x/aa/2d/9e/aa2d9eef4d75cc974684b5b4a6687de0.jpg"
+  },
+  {
+    "id": 13,
+    "name_category": "Cinematic",
+    "image": "https://i.pinimg.com/1200x/ab/2a/ef/ab2aefba41a7ec2cd661fe64fdc59b29.jpg"
+  },
+  {
+    "id": 14,
+    "name_category": "Animals",
+    "image": "https://i.pinimg.com/1200x/39/17/b8/3917b85a5e67f542a7bf25ff4bb69d60.jpg"
+  },
+  {
+    "id": 15,
+    "name_category": "Nature",
+    "image": "https://i.pinimg.com/1200x/2d/33/24/2d332406197d20278a6add33a10c7507.jpg"
+  },
+  {
+    "id": 16,
+    "name_category": "Ai",
+    "image": "https://i.pinimg.com/1200x/9d/e0/2d/9de02dd62431f4091bb31fb1d31072f0.jpg"
+  }
+],
 
   "Data": [
   {"id":"1","name_category":"Aesthetic","title":"Aesthetic","image":"https://raw.githubusercontent.com/zakaria-GR/SourceControl/main/wallpapers_4kwallview/aesthetic/wallpaper_0000.webp","lock":false},
