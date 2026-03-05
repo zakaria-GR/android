@@ -1,527 +1,722 @@
 [
     {
         "id": 1,
-        "category": "diy",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/diy/diy1.jpg"
-    },
-    {
-        "id": 2,
-        "category": "diy",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/diy/diy2.jpg"
-    },
-    {
-        "id": 3,
-        "category": "diy",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/diy/diy3.jpg"
-    },
-    {
-        "id": 4,
         "category": "aesthetic",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/aesthetic/asthetic1.jpg"
     },
     {
-        "id": 5,
+        "id": 2,
         "category": "aesthetic",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/aesthetic/asthetic2.jpg"
     },
     {
-        "id": 6,
+        "id": 3,
         "category": "aesthetic",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/aesthetic/asthetic3.jpg"
     },
     {
-        "id": 7,
+        "id": 4,
         "category": "aesthetic",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/aesthetic/asthetic4.jpg"
     },
     {
-        "id": 8,
+        "id": 5,
         "category": "aesthetic",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/aesthetic/asthetic5.jpg"
     },
     {
-        "id": 9,
+        "id": 6,
         "category": "aesthetic",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/aesthetic/asthetic6.jpg"
     },
     {
-        "id": 10,
+        "id": 7,
         "category": "aesthetic",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/aesthetic/asthetic7.jpg"
     },
     {
-        "id": 11,
+        "id": 8,
         "category": "aesthetic",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/aesthetic/asthetic8.jpg"
     },
     {
-        "id": 12,
+        "id": 9,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0012.webp"
     },
     {
-        "id": 13,
+        "id": 10,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0013.webp"
     },
     {
-        "id": 14,
+        "id": 11,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0014.webp"
     },
     {
-        "id": 15,
+        "id": 12,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0015.webp"
     },
     {
-        "id": 16,
+        "id": 13,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0016.webp"
     },
     {
-        "id": 17,
+        "id": 14,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0017.webp"
     },
     {
-        "id": 18,
+        "id": 15,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0018.webp"
     },
     {
-        "id": 19,
+        "id": 16,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0019.webp"
     },
     {
-        "id": 20,
+        "id": 17,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0020.webp"
     },
     {
-        "id": 21,
+        "id": 18,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0021.webp"
     },
     {
-        "id": 22,
+        "id": 19,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0022.webp"
     },
     {
-        "id": 23,
+        "id": 20,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0023.webp"
     },
     {
-        "id": 24,
+        "id": 21,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0024.webp"
     },
     {
-        "id": 25,
+        "id": 22,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0025.webp"
     },
     {
-        "id": 26,
+        "id": 23,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0026.webp"
     },
     {
-        "id": 27,
+        "id": 24,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0027.webp"
     },
     {
-        "id": 28,
+        "id": 25,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0028.webp"
     },
     {
-        "id": 29,
+        "id": 26,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0029.webp"
     },
     {
-        "id": 30,
+        "id": 27,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0030.webp"
     },
     {
-        "id": 31,
+        "id": 28,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0031.webp"
     },
     {
-        "id": 32,
+        "id": 29,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0032.webp"
     },
     {
-        "id": 33,
+        "id": 30,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0033.webp"
     },
     {
-        "id": 34,
+        "id": 31,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0034.webp"
     },
     {
-        "id": 35,
+        "id": 32,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0035.webp"
     },
     {
-        "id": 36,
+        "id": 33,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0036.webp"
     },
     {
-        "id": 37,
+        "id": 34,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0037.webp"
     },
     {
-        "id": 38,
+        "id": 35,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0038.webp"
     },
     {
-        "id": 39,
+        "id": 36,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0039.webp"
     },
     {
-        "id": 40,
+        "id": 37,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0040.webp"
     },
     {
-        "id": 41,
+        "id": 38,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0041.webp"
     },
     {
-        "id": 42,
+        "id": 39,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0042.webp"
     },
     {
-        "id": 43,
+        "id": 40,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0043.webp"
     },
     {
-        "id": 44,
+        "id": 41,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0044.webp"
     },
     {
-        "id": 45,
+        "id": 42,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0045.webp"
     },
     {
-        "id": 46,
+        "id": 43,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0046.webp"
     },
     {
-        "id": 47,
+        "id": 44,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0047.webp"
     },
     {
-        "id": 48,
+        "id": 45,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0048.webp"
     },
     {
-        "id": 49,
+        "id": 46,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0049.webp"
     },
     {
-        "id": 50,
+        "id": 47,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0050.webp"
     },
     {
-        "id": 51,
+        "id": 48,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0051.webp"
     },
     {
-        "id": 52,
+        "id": 49,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0052.webp"
     },
     {
-        "id": 53,
+        "id": 50,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0053.webp"
     },
     {
-        "id": 54,
+        "id": 51,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0054.webp"
     },
     {
-        "id": 55,
+        "id": 52,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0055.webp"
     },
     {
-        "id": 56,
+        "id": 53,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0056.webp"
     },
     {
-        "id": 57,
+        "id": 54,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0057.webp"
     },
     {
-        "id": 58,
+        "id": 55,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0058.webp"
     },
     {
-        "id": 59,
+        "id": 56,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0059.webp"
     },
     {
-        "id": 60,
+        "id": 57,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0060.webp"
     },
     {
-        "id": 61,
+        "id": 58,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0061.webp"
     },
     {
-        "id": 62,
+        "id": 59,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0062.webp"
     },
     {
-        "id": 63,
+        "id": 60,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0063.webp"
     },
     {
-        "id": 64,
+        "id": 61,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0064.webp"
     },
     {
-        "id": 65,
+        "id": 62,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0065.webp"
     },
     {
-        "id": 66,
+        "id": 63,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0066.webp"
     },
     {
-        "id": 67,
+        "id": 64,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0067.webp"
     },
     {
-        "id": 68,
+        "id": 65,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0068.webp"
     },
     {
-        "id": 69,
+        "id": 66,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0069.webp"
     },
     {
-        "id": 70,
+        "id": 67,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0070.webp"
     },
     {
-        "id": 71,
+        "id": 68,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0071.webp"
     },
     {
-        "id": 72,
+        "id": 69,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0072.webp"
     },
     {
-        "id": 73,
+        "id": 70,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0073.webp"
     },
     {
-        "id": 74,
+        "id": 71,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0074.webp"
     },
     {
-        "id": 75,
+        "id": 72,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0075.webp"
     },
     {
-        "id": 76,
+        "id": 73,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0076.webp"
     },
     {
-        "id": 77,
+        "id": 74,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0077.webp"
     },
     {
-        "id": 78,
+        "id": 75,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0078.webp"
     },
     {
-        "id": 79,
+        "id": 76,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0079.webp"
     },
     {
-        "id": 80,
+        "id": 77,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0080.webp"
     },
     {
-        "id": 81,
+        "id": 78,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0081.webp"
     },
     {
-        "id": 82,
+        "id": 79,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0082.webp"
     },
     {
-        "id": 83,
+        "id": 80,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0083.webp"
     },
     {
-        "id": 84,
+        "id": 81,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0084.webp"
     },
     {
-        "id": 85,
+        "id": 82,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0085.webp"
     },
     {
-        "id": 86,
+        "id": 83,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0086.webp"
     },
     {
-        "id": 87,
+        "id": 84,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0087.webp"
     },
     {
-        "id": 88,
+        "id": 85,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0088.webp"
     },
     {
-        "id": 89,
+        "id": 86,
         "category": "anime",
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/anime/wallpaper_0089.webp"
     },
     {
+        "id": 87,
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/034ba147a7a49ea9697f1ed373874c38.jpg"
+    },
+    {
+        "id": 88,
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/040710aca93975f84e6f7c7410210829.jpg"
+    },
+    {
+        "id": 89,
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/0e03f73c133e794fef3f364dca20aa2a.jpg"
+    },
+    {
         "id": 90,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/44.png"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/0e6dd669b5e9f78e51d7e91b94e8246c.jpg"
     },
     {
         "id": 91,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/1b41d3d31e7a2952b09c84d87571f63d.jpg"
     },
     {
         "id": 92,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back0.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/39cd2e881fa120682bdd20a4797fb08d.jpg"
     },
     {
         "id": 93,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back1.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/4b9dbef4bda4a204112b8469cf556f3a.jpg"
     },
     {
         "id": 94,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back11.png"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/50a8907f57f5b1b1f315fa20cff88ca8.jpg"
     },
     {
         "id": 95,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back2.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/5f549ccef5396a3552cc5db78fd792b0.jpg"
     },
     {
         "id": 96,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back3.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/6089325d6775ed0c9edf31e0c59df5d7.jpg"
     },
     {
         "id": 97,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back34.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/6a2f46e67edbcc46f6a495fa0935e5ae.jpg"
     },
     {
         "id": 98,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back344.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/6eaa57fec7ae77ddf52017973c8b30d2.jpg"
     },
     {
         "id": 99,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back35.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/8516d906a756a0c5f1972de170b20d4c.jpg"
     },
     {
         "id": 100,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back43.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/87cdb7d7ff088a210386d2aa6680a538.jpg"
     },
     {
         "id": 101,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back45.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/89daac5944b542f397e460aa7a0858d9.jpg"
     },
     {
         "id": 102,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back6.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/94897f747e05883e6ba90a83f9ef7d29.jpg"
     },
     {
         "id": 103,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back7.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/be32fd519557d6082472a5f5fdaa8565.jpg"
     },
     {
         "id": 104,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back879.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/cc7e366471dae503bb6854d7471a07c3.jpg"
     },
     {
         "id": 105,
-        "category": "backgrounds",
-        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/backgrounds/back9.jpg"
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/df7b4e04404afa8925197695ad946fe0.jpg"
+    },
+    {
+        "id": 106,
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/e5bd6be4e570584d318587324dc80ddc.jpg"
+    },
+    {
+        "id": 107,
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/ecc182d3d65ab63fa6302f48d21de8e3.jpg"
+    },
+    {
+        "id": 108,
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/f2030687bdedc66518778cf4b2322a9d.jpg"
+    },
+    {
+        "id": 109,
+        "category": "dark",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/dark/f4a85276104aa677eba7a4abddb397de.jpg"
+    },
+    {
+        "id": 110,
+        "category": "diy",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/diy/diy1.jpg"
+    },
+    {
+        "id": 111,
+        "category": "diy",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/diy/diy2.jpg"
+    },
+    {
+        "id": 112,
+        "category": "diy",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/diy/diy3.jpg"
+    },
+    {
+        "id": 113,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/0197bc9a18cfe161208f08e082f0c324.jpg"
+    },
+    {
+        "id": 114,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/03cb84507611817a6954fbff5250941f.jpg"
+    },
+    {
+        "id": 115,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/201cf4c9d6898062dce3a50110df88eb.jpg"
+    },
+    {
+        "id": 116,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/26bde12a61e7c2a5fe61869feccd6b95.jpg"
+    },
+    {
+        "id": 117,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/2e2fdb0e762628055d639338db4cb7b4.jpg"
+    },
+    {
+        "id": 118,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/3bb269652ae1dd0d4a0cf8fbe5eba90e.jpg"
+    },
+    {
+        "id": 119,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/3f50a94af8dd20ffae487a157ba5eb0b.jpg"
+    },
+    {
+        "id": 120,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/4f1b16108148037c996d7167b5a2ec03.jpg"
+    },
+    {
+        "id": 121,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/566c3aebc9a23ffd46d5098243f52c88.jpg"
+    },
+    {
+        "id": 122,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/5e8896e9e5b0adf437590796302f306e.jpg"
+    },
+    {
+        "id": 123,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/60d328f1ff6bd7cda4e4697e07c917e1.jpg"
+    },
+    {
+        "id": 124,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/61d6968d2701a9ddb44b727687b6ee70.jpg"
+    },
+    {
+        "id": 125,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/65210416e44b4a8b03bc6967368f10d2.jpg"
+    },
+    {
+        "id": 126,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/714b7713d117c925dc6da232487780f6.jpg"
+    },
+    {
+        "id": 127,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/73edb22f4d2484514c10695788dbe864.jpg"
+    },
+    {
+        "id": 128,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/855416a57826f5c1db3a9b77f5ab26d0.jpg"
+    },
+    {
+        "id": 129,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/b478893cdfa8e5cdd981514b18c5e64c.jpg"
+    },
+    {
+        "id": 130,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/bfb8459d0d7cc22806bdbfb25eaffe4f.jpg"
+    },
+    {
+        "id": 131,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/c028e7930c6425ebe43b944d1bf2fa0f.jpg"
+    },
+    {
+        "id": 132,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/c6a308a85465be912ebf3d33964d4ae0.jpg"
+    },
+    {
+        "id": 133,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/ca2fe30f811056ba56b046592aa86cff.jpg"
+    },
+    {
+        "id": 134,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/cb98da6c72459f281cfe8a805b2992fb.jpg"
+    },
+    {
+        "id": 135,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/cea0b80fd05ce517d859aa5d1f1b4d5f.jpg"
+    },
+    {
+        "id": 136,
+        "category": "minimal",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/minimal/e3b806010adc4be2820f21e528720ea0.jpg"
+    },
+    {
+        "id": 137,
+        "category": "sanrio",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/sanrio/29f5c6424f64321fd31505007202ca74.jpg"
+    },
+    {
+        "id": 138,
+        "category": "sanrio",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/sanrio/30a4727ae5751b208ebc6387b0c2ca33.jpg"
+    },
+    {
+        "id": 139,
+        "category": "sanrio",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/sanrio/49ab0ecef80d876a0c7114353fb0024b.jpg"
+    },
+    {
+        "id": 140,
+        "category": "sanrio",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/sanrio/51fa0cd015f9e439c1763e387790e005.jpg"
+    },
+    {
+        "id": 141,
+        "category": "sanrio",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/sanrio/5e2f12852010fbb5731f1cd93b5685d1.jpg"
+    },
+    {
+        "id": 142,
+        "category": "sanrio",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/sanrio/d361bb6d608c53798dd5e9fe6007cf67.jpg"
+    },
+    {
+        "id": 143,
+        "category": "sanrio",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/sanrio/d46fedc8a1f1158a55694f4243055d85.jpg"
+    },
+    {
+        "id": 144,
+        "category": "sanrio",
+        "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/sanrio/df9de1008fd80298fa32f2c091c1d5ab.jpg"
     }
 ]
