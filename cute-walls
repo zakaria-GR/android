@@ -29,7 +29,6 @@
   ],
 
   "Data": [
-{"id":"1","name_category":"Cute","title":"Cute","image":"https://i.pinimg.com/1200x/f2/5a/dd/f25add34ca158aaa8aaf54ada8005527.jpg","lock":false},
 {"id":"2","name_category":"Cute","title":"Cute","image":"https://i.pinimg.com/1200x/f2/5a/dd/f25add34ca158aaa8aaf54ada8005527.jpg","lock":true},
 {"id":"3","name_category":"Cute","title":"Cute","image":"https://i.pinimg.com/736x/f9/77/7b/f9777b27cf5032e125d8d1e24a828480.jpg","lock":false},
 {"id":"4","name_category":"Cute","title":"Cute","image":"https://i.pinimg.com/1200x/00/ba/d0/00bad024da4a5a7132a0a4abc4252cc0.jpg","lock":false},
