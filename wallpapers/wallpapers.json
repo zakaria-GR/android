@@ -1,4 +1,20 @@
-[
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/9214589741",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/9257395921"
+    }
+  ],
+"Data":[
     {
         "id": 1,
         "category": "floral",
@@ -1040,3 +1056,4 @@
         "url": "https://raw.githubusercontent.com/zakaria-GR/android/main/wallpapers/diy/f667bc093e73e398133ceb9ec758c56a.jpg"
     }
 ]
+}
