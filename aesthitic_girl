@@ -3,9 +3,9 @@
     {
         "select_main_ads": "ADMOB",
         "select_backup_ads": "UNITY",
-        "main_ads_banner": "ca-app-pub-8549215228247742/9113743380",
-        "main_ads_intertitial": "ca-app-pub-8549215228247742/7545243941",
-        "main_ads_rewards": "ca-app-pub-8549215228247742/8828870605",
+        "main_ads_banner": "ca-app-pub-8549215228247742/9941442613",
+        "main_ads_intertitial": "ca-app-pub-8549215228247742/7800661713",
+        "main_ads_rewards": "ca-app-pub-8549215228247742/4924352406",
         "main_ads_natives": "3",
         "backup_ads_banner": "4",
         "backup_ads_intertitial": "4",
