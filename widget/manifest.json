@@ -139,7 +139,8 @@
       "wallpaper": "icons/barbie_pink_icons/barbie phone wallpaper. barbie wallpaper. barbie iphone background. barbie phone background. barbie heart wallpaper. pink heart wallpaper.jpeg",
       "widgets": [
         "icons/barbie_pink_icons/barbie has a great day everyday widget. barbie widgets. barbie quote. barbie movie quotes. barbie aesthetic..jpg",
-        "icons/barbie_pink_icons/barbie i worked very hard so i deserve it widget. barbie widgets. barbie quote. barbie movie quotes. barbie aesthetic..jpg"
+        "icons/barbie_pink_icons/barbie i worked very hard so i deserve it widget. barbie widgets. barbie quote. barbie movie quotes. barbie aesthetic..jpg",
+        "icons/barbie_pink_icons/example look.jpeg"
       ],
       "icons": [
         "icons/barbie_pink_icons/AT&amp;amp;#038;T free hot pink app icons.jpg",
@@ -967,10 +968,12 @@
     {
       "id": "fall_icons",
       "label": "Fall",
-      "wallpaper": "icons/fall_icons/free fall aesthetic app icons, free fall app icon pack, autumn aesthetic app icons, fall phone backgrounds, fall phone wallpaper, autumn background, free fall app icon set.jpeg",
+      "wallpaper": "",
       "widgets": [
         "icons/fall_icons/fall motivational quotes widget. fall is a gentle reminder that change can be beautiful..jpeg",
-        "icons/fall_icons/fall motivational widget quotes. let nature show you that it's okay to let things go..jpeg"
+        "icons/fall_icons/fall motivational widget quotes. let nature show you that it's okay to let things go..jpeg",
+        "icons/fall_icons/example look.jpeg",
+        "icons/fall_icons/fall phone background, fall phone wallpaper with autumn leaves, coffee and pumpkins. pumpkin phone wallpaper, thanksgiving phone wallpaper.jpeg"
       ],
       "icons": [
         "icons/fall_icons/AT&amp;amp;#038;T fall app icons.jpg",
@@ -1102,7 +1105,11 @@
       "widgets": [
         "icons/green_icons/free green app icons. free green aesthetic app icons. green widgets. green ios 14 icons. spring app icons. summer app icon aesthetic. iphone widget themes free.jpeg",
         "icons/green_icons/it's going to be a good day widget. green widget. motivational quotes..jpeg",
-        "icons/green_icons/protect your peace widget green widget. motivational quotes..jpeg"
+        "icons/green_icons/protect your peace widget green widget. motivational quotes..jpeg",
+        "icons/green_icons/phone-wallpaper-green-palm.jpg",
+        "icons/green_icons/phone-wallpaper-green-sun.jpg",
+        "icons/green_icons/phone-wallpaper-rainbow.jpg",
+        "icons/green_icons/phone-wallpaper-spring-daisy.jpg"
       ],
       "icons": [
         "icons/green_icons/AT&amp;amp;#038;T free green app icons.jpg",
@@ -2178,10 +2185,12 @@
     {
       "id": "pink_coquette_bow_icons",
       "label": "Pink Coquette Bow",
-      "wallpaper": "icons/pink_coquette_bow_icons/free coquette aesthetic pink bow app icons. pink bow aesthetic app icons. soft girl phone aesthetic. soft girl wallpaper. coquette wallpaper.jpg",
+      "wallpaper": "",
       "widgets": [
         "icons/pink_coquette_bow_icons/i am deserving of all things beautiful widget.jpg",
-        "icons/pink_coquette_bow_icons/now my life is sweet like cinnamon widget.jpg"
+        "icons/pink_coquette_bow_icons/now my life is sweet like cinnamon widget.jpg",
+        "icons/pink_coquette_bow_icons/example look.jpg",
+        "icons/pink_coquette_bow_icons/pink gingham phone wallpaper.jpeg"
       ],
       "icons": [
         "icons/pink_coquette_bow_icons/AT&amp;amp;#038;T free pink bow app icons.jpg",
@@ -2443,7 +2452,8 @@
       "wallpaper": "icons/red_icons/strawberry-phone-wallpaper.jpeg",
       "widgets": [
         "icons/red_icons/strawberry_aesthetic_life_is_short_make_it_sweet_widget.jpg",
-        "icons/red_icons/strawberry_widget_good_things_take_time.jpg"
+        "icons/red_icons/strawberry_widget_good_things_take_time.jpg",
+        "icons/red_icons/strawberry_aesthetic_free_red_app_icons_red_aesthetic_app_icons_free_free_red_app_icon_set_iphone_app_icons_ipad_app_icons_android_app_icons_strawberry_app_icons_strawberry_phone_wallpaper.jpg"
       ],
       "icons": [
         "icons/red_icons/AT&amp;amp;#038;T.jpg",
@@ -3246,6 +3256,94 @@
         "icons/yellow_icons/postmates free mustard yellow app icons.jpg",
         "icons/yellow_icons/twitch free mustard yellow app icons.jpg"
       ]
+    },
+    {
+      "id": "aesthetic_wallpapers",
+      "label": "Aesthetic Wallpapers",
+      "wallpaper": "aesthetic_wallpapers/I love my cat valentines day widget.jpg",
+      "widgets": [
+        "aesthetic_wallpapers/I love my cat valentines day widget.jpg",
+        "aesthetic_wallpapers/boho phone wallpaper, neutral wallpaper, free phone wallpaper.jpg",
+        "aesthetic_wallpapers/boho phone wallpaper, neutral wallpaper, free phone wallpaper_5.jpg",
+        "aesthetic_wallpapers/happy valentines day widget.jpg",
+        "aesthetic_wallpapers/happy valentines day widget_26.jpg",
+        "aesthetic_wallpapers/happy valentines day widget_27.jpg",
+        "aesthetic_wallpapers/hey cutie valentine&#039;s day widget.jpg",
+        "aesthetic_wallpapers/how you doin&#039; valentines day widget.jpg",
+        "aesthetic_wallpapers/i love my dog valentines day widget.jpg",
+        "aesthetic_wallpapers/i love my dog widget.jpg",
+        "aesthetic_wallpapers/mauve watercolor wallpaper valentine&#039;s day phone wallpaper.jpg",
+        "aesthetic_wallpapers/phone wallpaper, neutral wallpaper, free phone wallpaper, dark boho wallpaper.jpg",
+        "aesthetic_wallpapers/phone wallpaper, neutral wallpaper, free phone wallpaper. boho wallpaper.jpg",
+        "aesthetic_wallpapers/phone wallpaper, neutral wallpaper, free phone wallpaper.jpg",
+        "aesthetic_wallpapers/phone wallpaper, neutral wallpaper, free phone wallpaper_3.jpg",
+        "aesthetic_wallpapers/pink and red wallpaper. strawberry aesthetic. valentine&#039;s day phone wallpaper.jpg",
+        "aesthetic_wallpapers/pink mini hearts valentine&#039;s day phone wallpaper.png",
+        "aesthetic_wallpapers/pink phone wallpaper. pink sprinkles wallpaper. light pink wallpaper.png",
+        "aesthetic_wallpapers/pink wallpaper.jpg",
+        "aesthetic_wallpapers/pink watercolor phone wallpaper.jpg",
+        "aesthetic_wallpapers/red hearts valentine&#039;s day phone wallpaper.jpg",
+        "aesthetic_wallpapers/valentine&#039;s day phone wallpaper. hearts wallpaper. red hearts phone wallpaper.jpg",
+        "aesthetic_wallpapers/valentine&#039;s day phone wallpaper.jpg",
+        "aesthetic_wallpapers/valentine&#039;s day phone wallpaper_8.jpg",
+        "aesthetic_wallpapers/valentines day widget.jpg",
+        "aesthetic_wallpapers/valentines day widget_24.jpg",
+        "aesthetic_wallpapers/you are loved valentines day widget.jpg",
+        "aesthetic_wallpapers/you&#039;re my lobster valentines day widget.jpg"
+      ],
+      "icons": []
+    },
+    {
+      "id": "kawaii_wallpapers",
+      "label": "Kawaii Wallpapers",
+      "wallpaper": "wallpapers_pinterest_kawaii/kawaii_0001.jpg",
+      "widgets": [
+        "wallpapers_pinterest_kawaii/kawaii_0001.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0002.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0004.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0005.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0006.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0007.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0008.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0013.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0014.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0015.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0016.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0017.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0018.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0019.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0021.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0022.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0024.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0025.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0026.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0027.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0028.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0029.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0030.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0031.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0032.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0033.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0034.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0035.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0036.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0037.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0038.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0043.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0044.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0045.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0047.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0048.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0049.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0050.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0051.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0052.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0053.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0055.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0056.jpg",
+        "wallpapers_pinterest_kawaii/kawaii_0057.jpg"
+      ],
+      "icons": []
     }
   ],
   "wallpaperCollections": [
